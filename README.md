@@ -1,4 +1,4 @@
-## Olá me chamo Dimitry Junior, estudo desenvolvido fullstack! Bem-vindo(a) ao meu perfil 😁
+## Olá me chamo Dimitry Junior, estudo desenvolvimento fullstack! Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/Dimitry-Voishev-Junior">
