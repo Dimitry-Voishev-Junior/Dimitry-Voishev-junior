@@ -54,7 +54,7 @@
 
 ###
 
-<div align="center"></div>
+<hr style="border-top: 1px solid;">
 
 ###
 
