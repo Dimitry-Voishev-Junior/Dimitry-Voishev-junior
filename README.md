@@ -54,7 +54,7 @@
 
 ###
 
-<hr style="border-top: 1px solid;">
+<hr style="border: 1px solid rgba(61, 68, 77, 0.7);">
 
 ###
 
