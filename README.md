@@ -6,7 +6,7 @@
 <h1 align="center">👨🏻‍💻 Dimitry Voishev Junior</h1>
 
 
-<p align="center">Desenvolvedor de Sistemas</p>
+<p align="center">Engenheiro De Software</p>
 
 
 <h3 align="left">Sobre Mim 👋</h3>
